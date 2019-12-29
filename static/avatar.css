@@ -1,0 +1,20 @@
+#container {
+position:relative;
+width: 100%;
+height: 450px;
+background-image: url('https://images.wallpaperscraft.com/image/postcard_christmas_new_year_154062_720x1280.jpg');
+background-size: cover;
+}
+
+.avatar{
+position : absolute;
+top:105%
+right:100%;
+}
+
+.avatar img {
+width : 280px;
+height: 280px;
+border-radius:100%;
+border : 10px solid white;
+}
