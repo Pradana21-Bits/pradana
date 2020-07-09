@@ -1,0 +1,7 @@
+1. (elis) upload flowchart .drawio dan .png --> ke master
+2. (elis) upload CLIv1 --> ke  create a new branch for this commit. ketik, kasih nama CLI
+3. (yerri) upload CLIv2 --> ke branch yg namanya CLI.
+4. (yerri) upload CLIv3 --> ke branch yg namanya CLI.
+5. (fikri) upload CLIv4 --> ke branch yg namanya CLI.
+6. (reza) upload folder gui v1 --> ke create a new branch for this commit. ketik, kasih nama GUI.
+7. (nenden) upload folder gui v2 --> ke branch yg namanya GUI.
